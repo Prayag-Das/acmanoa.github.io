@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093f7496-e8df-4883-bbf1-eeba86a8cc19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/officers/honggun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/officers/prayag.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ballroom.md" beforeDir="false" afterPath="$PROJECT_DIR$/ballroom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,15 +23,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1mjLv42WFGLqJwRIe8GrtDoidEJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/prayagdas/Documents/GitHub/acmanoa.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,12 +57,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687498254828</updated>
-      <workItem from="1687498256677" duration="367000" />
+      <workItem from="1687498256677" duration="1564000" />
+      <workItem from="1689291954185" duration="598000" />
+      <workItem from="1692834074033" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1183" y="246" width="679" height="1035" key="dock-window-1" timestamp="1610003535678">
